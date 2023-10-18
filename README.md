@@ -52,7 +52,7 @@ To run this project locally, follow these steps:
    streamlit run app.py
    ```
 
-The application should now be accessible in your web browser at `https://chatgpt-clone-with-summary-by-ap.streamlit.app/`.
+The application should now be accessible in your web browser at `[https://chatgpt-clone-with-summary-by-ap.streamlit.app/](https://chatgpt-clone-with-summary-using-langchain-app-by-ap.streamlit.app/)`.
 
 ## Usage
 
