@@ -17,7 +17,7 @@ Key features of this repository include:
 4. **LangChain Backend**: LangChain is used as the backend to power the conversational AI. It handles the logic for processing and responding to user messages.
 
 
-The application should now be accessible in your web browser at `https://chatgpt-clone-with-summary-using-langchain-app-by-ap.streamlit.app/`.
+The application should now be accessible in your web browser at https://chatgpt-clone-with-summary-using-langchain-app-by-ap.streamlit.app/](https://chatgpt-clone-with-summary-using-langchain-app-by-ap.streamlit.app/
 
 
 [OpenAI GPT-3.5](https://platform.openai.com/docs/guides/chat) by [OpenAI](https://www.openai.com/)
